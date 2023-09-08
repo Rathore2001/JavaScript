@@ -1,0 +1,7 @@
+let myArr = [1,2,3,4,5]
+myArr.push(0)
+console.log(myArr.join())
+let myn1 = myArr.splice(2,5)
+console.log("A" , myArr)
+console.log("B" , myn1)
+

@@ -1,0 +1,7 @@
+let mydate = new Date()
+/*console.log(mydate.toString())
+console.log(mydate.toDateString())
+console.log(mydate.toLocaleString())
+*/
+let newdate = Date.now()
+//console.log(Math.floor(Date.now()/1000))
