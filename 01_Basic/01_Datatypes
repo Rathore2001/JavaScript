@@ -3,4 +3,11 @@
 //Operation 
 let value = 3
 let negValue = -value 
-console.log(negValue) 
+const x = 59;
+//console.log(negValue)
+let name = "Rohit"
+//console.log(name.substring(2,5)) 
+//console.log('There is negative value ${x}');
+const url = "https://hitesh.com/hitesh20%choudary"
+console.log(url.replace('20%','-'))
+console.log(url.includes("hitesh"))
