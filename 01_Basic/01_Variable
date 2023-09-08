@@ -1,0 +1,7 @@
+const AccountID = "awds@com"
+let AccountNAme ="Hitesh"
+var Passwd ="12345"  //mostly use let because in var there is a issue 
+AccountCity = "Jaipur"
+
+console.log(AccountID)
+console.table([AccountNAme,Passwd,AccountCity])
